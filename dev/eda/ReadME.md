@@ -1,0 +1,1 @@
+**Purpose:** Code for the exploratory data analysis (EDA) phase of this project. In this folder, you'll find scripts and notebooks focused on understanding the dataset, visualizing trends, and identifying patterns in video game sales to guide further modeling and forecasting efforts.
