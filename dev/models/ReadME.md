@@ -1,0 +1,1 @@
+**Purpose:** Code for the model development phase of this project. In this folder, you'll find scripts used to build, test, and refine forecasting models for video game sales. This includes all iterations leading to the final production-ready models. Additionally, the accompanying slide deck summarizing the methodology and results is also available here. 
