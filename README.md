@@ -17,4 +17,4 @@ Navigating this repo:
 Related project materials:
 * Links to decks: 
     * 20241105: Data and EDA ([link](https://github.com/nirjashah-0-0/Video-Game-Sales-Project/blob/main/dev/eda/EDA_and_Data_Deck.pdf))
-    * 20241105: Modeling Methods and Findings (([link](https://github.com/nirjashah-0-0/Video-Game-Sales-Project/blob/main/dev/models/Methods_Finding_Recommendation.pdf))
+    * 20241105: Modeling Methods and Findings ([link](https://github.com/nirjashah-0-0/Video-Game-Sales-Project/blob/main/dev/models/Methods_Finding_Recommendation.pdf))
