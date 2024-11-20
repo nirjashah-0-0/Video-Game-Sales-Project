@@ -16,5 +16,5 @@ Navigating this repo:
 
 Related project materials:
 * Links to decks: 
-    * 20241105: Data and EDA (link)
+    * 20241105: Data and EDA (dev/eda/EDA_and_Data_Deck.pdf)
     * 20241105: Modeling Methods and Findings (link)
